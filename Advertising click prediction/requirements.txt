@@ -1,0 +1,10 @@
+numpy
+pandas
+pydantic
+sklearn
+strictyaml
+gensim
+feature-engine
+joblib
+seaborn
+-e .

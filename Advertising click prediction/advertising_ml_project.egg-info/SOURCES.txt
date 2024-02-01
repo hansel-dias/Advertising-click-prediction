@@ -1,0 +1,12 @@
+README.md
+setup.py
+advertising_ml_project.egg-info/PKG-INFO
+advertising_ml_project.egg-info/SOURCES.txt
+advertising_ml_project.egg-info/dependency_links.txt
+advertising_ml_project.egg-info/requires.txt
+advertising_ml_project.egg-info/top_level.txt
+src/__init__.py
+src/components/__init__.py
+src/components/data_ingestion.py
+src/components/data_transformation.py
+src/components/model_train.py
